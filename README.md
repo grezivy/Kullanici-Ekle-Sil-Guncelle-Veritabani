@@ -1,7 +1,7 @@
 📋 C# Windows Forms Personel / Kullanıcı Yönetim Sistemi (CRUD)
 Selamlar! Bu proje, C# ve Windows Forms kullanarak geliştirdiğim bellek içi (in-memory) veri yönetimi gerçekleştiren bir CRUD (Create, Read, Update, Delete) uygulamasıdır.
 
-Nesne Yönelimli Programlama / C# dersi ödevi kapsamında hazırladığım bu çalışmada, herhangi bir SQL veritabanı kurulumuna gerek kalmadan verileri doğrudan bellekte tutan sanal bir tablo yapısı kullandım.
+Bu çalışmada, herhangi bir SQL veritabanı kurulumuna gerek kalmadan verileri doğrudan bellekte tutan sanal bir tablo yapısı kullandım.
 
 🚀 Projenin Öne Çıkan Özellikleri
 Sanal Veritabanı (DataTable): Veriler bir SQL veritabanı yerine System.Data.DataTable nesnesi üzerinde bellekte saklanır.
